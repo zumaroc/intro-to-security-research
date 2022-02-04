@@ -1,5 +1,5 @@
 # intro-to-security-research
 
-PDF for the Intro to Security Research - Red Team Hacking
+PDFs for the Intro to Security Research - Red Team Hacking Course
 
 www.zumaroc.com/intro-to-security-research
